@@ -5,4 +5,4 @@
  returns 10 diffrent users
 
 ## Live Demo
-http://pop-monster-names.herokuapp.com/monsters
+https://pop-monster-names.herokuapp.com/monsters
